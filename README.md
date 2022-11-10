@@ -13,7 +13,7 @@
 
 ## Install
 
-```console
+```console test
 $ pip install 'moto[ec2,s3,all]'
 ```
 
